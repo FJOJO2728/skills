@@ -1,4 +1,4 @@
-# fjojo-skills
+# skills · 自用 AI 技能库
 
 一组自用的 Claude / Agent 技能（Skills），挑了 9 个最通用的开源出来。
 
