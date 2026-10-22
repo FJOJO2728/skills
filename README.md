@@ -1,6 +1,6 @@
 # skills · 自用 AI 技能库
 
-一组自用的 Claude / Agent 技能（Skills），挑了 9 个最通用的开源出来。
+一组自用的 Claude / Agent 技能（Skills），挑了 11 个最通用的开源出来。
 
 每个技能就是一个文件夹里的 `SKILL.md`——纯 Markdown，没有代码依赖，不联网也能读懂。放进支持 Skills 的 Agent 里（Claude Code、Claude Desktop、Codex 等）即可生效。
 
@@ -19,6 +19,8 @@
 | [exam-panorama](skills/exam-panorama) | 考试全景：联网核验考情，按七节模板把一门考试讲透（科目、题型、赋分、流程），只讲考试本体 | 备考 |
 | [shenlun](skills/shenlun) | 申论全流程：读材料／审题干／写答案三支柱、采分点覆盖批改、大作文两轮阅卷、命题预判 | 备考 |
 | [xingce](skills/xingce) | 行测速解：资料分析、数量关系、言语、判断逐题快解，默认「速解 → 答案 → 考点」三段输出 | 备考 |
+| [kepu](skills/kepu) | 学习材料改写成零解题痕迹的科普小文：把一件事讲透，同主题可合并成篇 | 内容 |
+| [ganhuo](skills/ganhuo) | 材料提炼成知识点罗列：一句一点、数字必核、禁口诀顺口溜 | 内容 |
 
 ## 怎么用
 
